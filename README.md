@@ -2,7 +2,7 @@
 
 PCB design files for a DS2480B based dongle, to enable automatic instrument detection function of dVRK.
 
-* `DS2480B_DONGLE.PrjPCB`: Altium Designer project file
+* `DS2480B-DONGLE.PrjPCB`: Altium Designer project file
 * `DS2480B-DONGLE.SchDoc`: schematics (Altium Designer format)
 * `DS2480B-DONGLE.PcbDoc`: PCB layout (Altium Designer format)
 * `DS2480B-DONGLE-Schematics.pdf`: PDF of schematics
